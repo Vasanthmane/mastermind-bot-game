@@ -73,7 +73,7 @@ def cred():
     c='''                                                            CODE CREDITS
 
 
-                                                        Karthik Mohan
+                                                        Karthik Mohan, Vasanth Manne
          '''
     return(c)
 def correction():
